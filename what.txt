@@ -1,0 +1,8 @@
+Player Stats
+Health: 100
+Shield: 0
+
+Inventory Data
+Tactical Shotgun,1
+Mini's,2
+Grappler (20 uses),1
