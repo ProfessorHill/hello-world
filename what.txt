@@ -1,6 +1,6 @@
 Player Stats
 Health: 100
-Shield: 0
+Shield: 2
 
 Inventory Data
 Tactical Shotgun,1
